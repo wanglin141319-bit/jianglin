@@ -1,0 +1,76 @@
+[
+  {
+    "id": "review_20260414",
+    "date": "2026-04-14",
+    "date_label": "04月14日",
+    "direction": "做多",
+    "entry_price": 2225.86,
+    "exit_price": 2366.62,
+    "result_pct": 6.32,
+    "high": 2415.5,
+    "low": 2200.0,
+    "volatility": 9.68,
+    "analysis": {
+      "trend": "强势上涨",
+      "recommendation": "突破顺势做多，关注 MA7 支撑",
+      "notes": [
+        "MA7 在 MA30 上方，中期多头格局",
+        "日内波动较大（9.7%），注意止损",
+        "单边行情（6.3%），顺势跟进"
+      ],
+      "ma7": 2374.55,
+      "ma30": 2311.51,
+      "ma_status": "多头"
+    },
+    "current_price": "2366.88000000",
+    "generated_at": "2026-04-14T23:44:48.984288+08:00"
+  },
+  {
+    "id": "review_20260415",
+    "date": "2026-04-15",
+    "date_label": "04月15日",
+    "direction": "做空",
+    "entry_price": 2368.7,
+    "exit_price": 2333.64,
+    "result_pct": -1.48,
+    "high": 2415.5,
+    "low": 2302.9,
+    "volatility": 4.75,
+    "analysis": {
+      "trend": "小幅回调",
+      "recommendation": "区间震荡，高抛低吸为主",
+      "notes": [
+        "MA7 在 MA30 下方，中期偏空"
+      ],
+      "ma7": 2319.59,
+      "ma30": 2344.92,
+      "ma_status": "空头"
+    },
+    "current_price": "2333.64000000",
+    "generated_at": "2026-04-15T08:58:51.561427+08:00"
+  },
+  {
+    "id": "review_20260415",
+    "date": "2026-04-15",
+    "date_label": "04月15日",
+    "direction": "做空",
+    "entry_price": 2367.62,
+    "exit_price": 2332.89,
+    "result_pct": -1.47,
+    "high": 2415.5,
+    "low": 2302.9,
+    "volatility": 4.76,
+    "analysis": {
+      "trend": "小幅回调",
+      "recommendation": "区间震荡，高抛低吸为主",
+      "notes": [
+        "MA7 在 MA30 下方，中期偏空"
+      ],
+      "ma7": 2322.32,
+      "ma30": 2347.28,
+      "ma_status": "空头"
+    },
+    "current_price": "2332.79000000",
+    "generated_at": "2026-04-15T09:01:31.393522+08:00"
+  }
+]
