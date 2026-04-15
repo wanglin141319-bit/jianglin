@@ -1,39 +1,39 @@
 {
   "last_updated": "2026-04-15",
   "market_summary": {
-    "current_price": 2332.79,
-    "change_24h": -1.0,
+    "current_price": 2324.89,
+    "change_24h": -1.87,
     "high_24h": 2415.5,
     "low_24h": 2302.9,
-    "volume": "441196.63500000"
+    "volume": "425605.47010000"
   },
   "yesterday_review": {
     "date": "2026-04-15",
-    "open": 2367.62,
-    "close": 2332.89,
+    "open": 2365.5,
+    "close": 2324.9,
     "high": 2415.5,
     "low": 2302.9,
-    "change_pct": -1.47,
+    "change_pct": -1.72,
     "volatility_pct": 4.76,
     "trend": "小幅回调",
     "recommendation": "区间震荡，高抛低吸为主",
     "notes": [
       "MA7 在 MA30 下方，中期偏空"
     ],
-    "ma7": 2322.32,
-    "ma30": 2347.28,
+    "ma7": 2324.37,
+    "ma30": 2349.79,
     "ma_status": "空头"
   },
   "performance_stats": {
-    "total_trades": 3,
+    "total_trades": 5,
     "win_trades": 1,
-    "loss_trades": 2,
-    "win_rate": 33.3,
+    "loss_trades": 4,
+    "win_rate": 20.0,
     "avg_win_pct": 6.32,
-    "avg_loss_pct": 1.48,
-    "profit_factor": 4.28,
-    "total_pnl": 3.37,
-    "max_streak": 2
+    "avg_loss_pct": 1.59,
+    "profit_factor": 3.97,
+    "total_pnl": -0.05,
+    "max_streak": 4
   },
   "recent_reviews": [
     {
@@ -109,6 +109,54 @@
       },
       "current_price": "2332.79000000",
       "generated_at": "2026-04-15T09:01:31.393522+08:00"
+    },
+    {
+      "id": "review_20260415",
+      "date": "2026-04-15",
+      "date_label": "04月15日",
+      "direction": "做空",
+      "entry_price": 2365.5,
+      "exit_price": 2325.39,
+      "result_pct": -1.7,
+      "high": 2415.5,
+      "low": 2302.9,
+      "volatility": 4.76,
+      "analysis": {
+        "trend": "小幅回调",
+        "recommendation": "区间震荡，高抛低吸为主",
+        "notes": [
+          "MA7 在 MA30 下方，中期偏空"
+        ],
+        "ma7": 2324.44,
+        "ma30": 2349.8,
+        "ma_status": "空头"
+      },
+      "current_price": "2325.39000000",
+      "generated_at": "2026-04-15T10:30:12.153094+08:00"
+    },
+    {
+      "id": "review_20260415",
+      "date": "2026-04-15",
+      "date_label": "04月15日",
+      "direction": "做空",
+      "entry_price": 2365.5,
+      "exit_price": 2324.9,
+      "result_pct": -1.72,
+      "high": 2415.5,
+      "low": 2302.9,
+      "volatility": 4.76,
+      "analysis": {
+        "trend": "小幅回调",
+        "recommendation": "区间震荡，高抛低吸为主",
+        "notes": [
+          "MA7 在 MA30 下方，中期偏空"
+        ],
+        "ma7": 2324.37,
+        "ma30": 2349.79,
+        "ma_status": "空头"
+      },
+      "current_price": "2324.89000000",
+      "generated_at": "2026-04-15T10:30:39.589356+08:00"
     }
   ]
 }
