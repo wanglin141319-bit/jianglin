@@ -14,7 +14,7 @@ const SITE = {
   name: 'Doney',
   tagline: 'ETH · 合约交易策略与复盘',
   email: 'jy596@outlook.com',
-  telegram: 'https://t.me/bitebiwang1413',
+  twitter: 'https://twitter.com/szhbwj596',
 }
 
 const NAV = [
@@ -631,7 +631,7 @@ function About() {
             <div style={{ fontSize: 13, fontWeight: 700, color: C.muted, marginBottom: 16, letterSpacing: '0.05em' }}>联系方式</div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
               <ContactCard label="邮箱" value={SITE.email} href={`mailto:${SITE.email}`} icon={<Mail size={16} />} color={C.primary} />
-              <ContactCard label="Telegram" value="@bitebiwang1413" href={SITE.telegram} icon={<Zap size={16} />} color="#229ED9" />
+              <ContactCard label="Twitter/X" value="@szhbwj596" href={SITE.twitter} icon={<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.253 5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>} color="#000000" />
             </div>
           </div>
         </div>
