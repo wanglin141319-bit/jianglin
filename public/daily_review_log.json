@@ -78,23 +78,23 @@
     "date": "2026-04-17",
     "date_label": "04月17日",
     "direction": "做空",
-    "entry_price": 2352.06,
-    "exit_price": 2344.86,
-    "result_pct": -0.31,
+    "entry_price": 2356.68,
+    "exit_price": 2343.93,
+    "result_pct": -0.54,
     "high": 2369.59,
     "low": 2285.1,
     "volatility": 3.59,
     "analysis": {
-      "trend": "区间震荡",
+      "trend": "小幅回调",
       "recommendation": "区间震荡，高抛低吸为主",
       "notes": [
         "MA7 在 MA30 上方，中期多头格局"
       ],
-      "ma7": 2347.12,
-      "ma30": 2345.79,
+      "ma7": 2347.17,
+      "ma30": 2344.74,
       "ma_status": "多头"
     },
-    "current_price": "2344.85000000",
-    "generated_at": "2026-04-17T08:58:22.384215+08:00"
+    "current_price": "2343.93000000",
+    "generated_at": "2026-04-17T09:00:04.297135+08:00"
   }
 ]
