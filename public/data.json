@@ -1,29 +1,29 @@
 {
   "last_updated": "2026-04-18",
   "market_summary": {
-    "current_price": 2419.21,
-    "change_24h": 3.18,
+    "current_price": 2419.22,
+    "change_24h": 3.22,
     "high_24h": 2464.91,
     "low_24h": 2317.43,
-    "volume": "496343.94560000"
+    "volume": "496102.72360000"
   },
   "yesterday_review": {
     "date": "2026-04-18",
-    "open": 2335.38,
-    "close": 2419.22,
+    "open": 2331.75,
+    "close": 2419.21,
     "high": 2464.91,
     "low": 2317.43,
-    "change_pct": 3.59,
+    "change_pct": 3.75,
     "volatility_pct": 6.32,
     "trend": "强势上涨",
     "recommendation": "突破顺势做多，关注 MA7 支撑",
     "notes": [
       "MA7 在 MA30 上方，中期多头格局",
       "日内波动较大（6.3%），注意止损",
-      "单边行情（3.6%），顺势跟进"
+      "单边行情（3.8%），顺势跟进"
     ],
-    "ma7": 2425.13,
-    "ma30": 2379.04,
+    "ma7": 2425.27,
+    "ma30": 2381.08,
     "ma_status": "多头"
   },
   "performance_stats": {
@@ -31,10 +31,10 @@
     "win_trades": 3,
     "loss_trades": 2,
     "win_rate": 60.0,
-    "avg_win_pct": 3.63,
+    "avg_win_pct": 3.68,
     "avg_loss_pct": 1.13,
-    "profit_factor": 3.21,
-    "total_pnl": 8.63,
+    "profit_factor": 3.26,
+    "total_pnl": 8.79,
     "max_streak": 1
   },
   "recent_reviews": [
@@ -141,9 +141,9 @@
       "date": "2026-04-18",
       "date_label": "04月18日",
       "direction": "做多",
-      "entry_price": 2335.38,
-      "exit_price": 2419.22,
-      "result_pct": 3.59,
+      "entry_price": 2331.75,
+      "exit_price": 2419.21,
+      "result_pct": 3.75,
       "high": 2464.91,
       "low": 2317.43,
       "volatility": 6.32,
@@ -153,14 +153,14 @@
         "notes": [
           "MA7 在 MA30 上方，中期多头格局",
           "日内波动较大（6.3%），注意止损",
-          "单边行情（3.6%），顺势跟进"
+          "单边行情（3.8%），顺势跟进"
         ],
-        "ma7": 2425.13,
-        "ma30": 2379.04,
+        "ma7": 2425.27,
+        "ma30": 2381.08,
         "ma_status": "多头"
       },
-      "current_price": "2419.21000000",
-      "generated_at": "2026-04-18T08:58:44.484691+08:00"
+      "current_price": "2419.22000000",
+      "generated_at": "2026-04-18T09:00:22.372637+08:00"
     }
   ]
 }
