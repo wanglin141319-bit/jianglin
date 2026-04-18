@@ -1,38 +1,40 @@
 {
-  "last_updated": "2026-04-17",
+  "last_updated": "2026-04-18",
   "market_summary": {
-    "current_price": 2343.93,
-    "change_24h": -0.65,
-    "high_24h": 2369.59,
-    "low_24h": 2285.1,
-    "volume": "328959.20680000"
+    "current_price": 2419.21,
+    "change_24h": 3.18,
+    "high_24h": 2464.91,
+    "low_24h": 2317.43,
+    "volume": "496343.94560000"
   },
   "yesterday_review": {
-    "date": "2026-04-17",
-    "open": 2356.68,
-    "close": 2343.93,
-    "high": 2369.59,
-    "low": 2285.1,
-    "change_pct": -0.54,
-    "volatility_pct": 3.59,
-    "trend": "小幅回调",
-    "recommendation": "区间震荡，高抛低吸为主",
+    "date": "2026-04-18",
+    "open": 2335.38,
+    "close": 2419.22,
+    "high": 2464.91,
+    "low": 2317.43,
+    "change_pct": 3.59,
+    "volatility_pct": 6.32,
+    "trend": "强势上涨",
+    "recommendation": "突破顺势做多，关注 MA7 支撑",
     "notes": [
-      "MA7 在 MA30 上方，中期多头格局"
+      "MA7 在 MA30 上方，中期多头格局",
+      "日内波动较大（6.3%），注意止损",
+      "单边行情（3.6%），顺势跟进"
     ],
-    "ma7": 2347.17,
-    "ma30": 2344.74,
+    "ma7": 2425.13,
+    "ma30": 2379.04,
     "ma_status": "多头"
   },
   "performance_stats": {
-    "total_trades": 4,
-    "win_trades": 2,
+    "total_trades": 5,
+    "win_trades": 3,
     "loss_trades": 2,
-    "win_rate": 50.0,
-    "avg_win_pct": 3.65,
+    "win_rate": 60.0,
+    "avg_win_pct": 3.63,
     "avg_loss_pct": 1.13,
-    "profit_factor": 3.23,
-    "total_pnl": 5.04,
+    "profit_factor": 3.21,
+    "total_pnl": 8.63,
     "max_streak": 1
   },
   "recent_reviews": [
@@ -133,6 +135,32 @@
       },
       "current_price": "2343.93000000",
       "generated_at": "2026-04-17T09:00:04.297135+08:00"
+    },
+    {
+      "id": "review_20260418",
+      "date": "2026-04-18",
+      "date_label": "04月18日",
+      "direction": "做多",
+      "entry_price": 2335.38,
+      "exit_price": 2419.22,
+      "result_pct": 3.59,
+      "high": 2464.91,
+      "low": 2317.43,
+      "volatility": 6.32,
+      "analysis": {
+        "trend": "强势上涨",
+        "recommendation": "突破顺势做多，关注 MA7 支撑",
+        "notes": [
+          "MA7 在 MA30 上方，中期多头格局",
+          "日内波动较大（6.3%），注意止损",
+          "单边行情（3.6%），顺势跟进"
+        ],
+        "ma7": 2425.13,
+        "ma30": 2379.04,
+        "ma_status": "多头"
+      },
+      "current_price": "2419.21000000",
+      "generated_at": "2026-04-18T08:58:44.484691+08:00"
     }
   ]
 }
