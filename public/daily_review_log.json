@@ -122,5 +122,29 @@
     },
     "current_price": "2419.22000000",
     "generated_at": "2026-04-18T09:00:22.372637+08:00"
+  },
+  {
+    "id": "review_20260419",
+    "date": "2026-04-19",
+    "date_label": "04月19日",
+    "direction": "做空",
+    "entry_price": 2419.2,
+    "exit_price": 2346.82,
+    "result_pct": -2.99,
+    "high": 2424.85,
+    "low": 2339.92,
+    "volatility": 3.51,
+    "analysis": {
+      "trend": "小幅回调",
+      "recommendation": "注意支撑位，破位考虑顺势做空",
+      "notes": [
+        "MA7 在 MA30 下方，中期偏空"
+      ],
+      "ma7": 2351.33,
+      "ma30": 2381.5,
+      "ma_status": "空头"
+    },
+    "current_price": "2346.82000000",
+    "generated_at": "2026-04-19T09:11:25.874219+08:00"
   }
 ]
